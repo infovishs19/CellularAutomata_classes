@@ -1,2 +1,2 @@
-# CellularAutomata_classes
+# cellular-automata-classes
  
